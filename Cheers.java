@@ -17,7 +17,7 @@ public class Cheers {
         if (Anletters.indexOf(word.charAt(lettercount)) != -1) {
                 System.out.println("Give me an " + word.charAt(lettercount) + ": " + word.charAt(lettercount) +"!" );
        }else{
-                System.out.println("Give me a " + word.charAt(lettercount) + ": " + word.charAt(lettercount) +"!" );
+                System.out.println("Give me a  " + word.charAt(lettercount) + ": " + word.charAt(lettercount) +"!" );
        }
        lettercount ++;
        }
